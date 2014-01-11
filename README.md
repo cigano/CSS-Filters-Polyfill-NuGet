@@ -1,6 +1,6 @@
 # CSS-Filters-Polyfill port for NuGet #
 
-The package goal is mainly pack another GitHub project ([https://github.com/Schepp/CSS-Filters-Polyfill](https://github.com/Schepp/CSS-Filters-Polyfill)) for use with NuGet (.NET projects). 
+The package goal is mainly pack another GitHub project ([https://github.com/Schepp/CSS-Filters-Polyfill](https://github.com/Schepp/CSS-Filters-Polyfill)) for use with [NuGet](http://nuget.org) (.NET projects). 
 
 Mainly, the package simply adds essential files into *Scripts* folder of your project. The includes have to be made manually.
 
