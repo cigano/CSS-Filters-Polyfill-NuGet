@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>CSS-Filters-Polyfill</id>
+    <version>1.0.0</version>
+    <authors>Cigano Morrison Mendez</authors>
+    <owners>Cigano Morrison Mendez</owners>
+    <projectUrl>https://github.com/Schepp/CSS-Filters-Polyfill</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This polyfill takes the official CSS filters syntax and translates it to the different equivalent techniques that the browsers know for those effects</description>
+    <releaseNotes>First Release.</releaseNotes>
+    <copyright>Copyright (c) 2012 - 2013 Christian Schepp Schaefer</copyright>
+    <tags>JavaScript CSS Filters</tags>
+  </metadata>
+</package>
